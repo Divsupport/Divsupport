@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-IAM Cybersecurity Professional | Microsoft Entra ID | Cloud Security | Data & Analytics
+IAM & Cybersecurity Professional | Microsoft Entra ID | Cloud Security | Data & Analytics
 </h3>
 
 ---
@@ -12,9 +12,9 @@ IAM Cybersecurity Professional | Microsoft Entra ID | Cloud Security | Data & An
 
 I am an IAM and Cybersecurity professional focused on Identity & Access Management, Microsoft Entra ID, RBAC, cloud security administration, and Azure infrastructure.
 
-I build hands-on enterprise-focused labs around identity governance, least privilege, delegated administration, cloud infrastructure, and Microsoft security technologies.
+I build hands-on enterprise-focused labs around identity governance, least privilege, delegated administration, Microsoft security technologies, cloud infrastructure, and identity security validation.
 
-I also work on data analytics, SQL, Power BI reporting, and cloud-based data engineering projects.
+Alongside cybersecurity, I also work on SQL, Power BI, Python, cloud-based analytics, and data engineering projects.
 
 ---
 
@@ -24,9 +24,9 @@ I also work on data analytics, SQL, Power BI reporting, and cloud-based data eng
   University of Huddersfield, United Kingdom
 
 - 🎓 MSc Marketing Analytics & Data Intelligence  
-  Paris school of Business, France
+  Paris School of Business, France
 
-- 🎓 BSc Computer Science
+- 🎓 BSc Computer Science  
   Tansian University, Nigeria
 
 ---
@@ -56,6 +56,25 @@ I also work on data analytics, SQL, Power BI reporting, and cloud-based data eng
 ---
 
 # 🚀 Featured Projects
+
+## 🔐 Microsoft Entra ID Restricted Administrative Unit IAM Lab
+
+Designed and validated a secure regional Identity & Access Management governance model using Microsoft Entra ID Administrative Units, scoped RBAC, Security Groups, and Microsoft 365 delegated ownership.
+
+### Key Concepts
+- Administrative Units (AU)
+- Scoped RBAC
+- Hybrid Identity Administrator
+- Security Groups
+- Microsoft 365 Group Ownership
+- Least Privilege
+- Delegated Administration
+- Identity Governance
+
+🔗 Repository:  
+https://github.com/Divsupport/Entra-id-restricted-au-iam-lab
+
+---
 
 ## 🌐 Web Scraping RemoteOK Project
 
