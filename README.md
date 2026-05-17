@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Identity & Access Management (IAM) Cloud Engineer | Specializing in Microsoft Entra ID, Least-Privilege Architecture, and Hybrid Cloud Governance and Building secure infrastructures one lab at a time.
+Identity & Access Management (IAM) Cloud Engineer | Specializing in Microsoft Entra ID, Least-Privilege Architecture, and Hybrid Cloud Governance | Building secure infrastructures one lab at a time.
 </h3>
 
 ---
