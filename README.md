@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-IAM & Cybersecurity Professional | Microsoft Entra ID | Cloud Security | Data & Analytics
+IAM Cybersecurity Professional | Microsoft Entra ID | Cloud Security | Data & Analytics
 </h3>
 
 ---
@@ -24,9 +24,10 @@ I also work on data analytics, SQL, Power BI reporting, and cloud-based data eng
   University of Huddersfield, United Kingdom
 
 - 🎓 MSc Marketing Analytics & Data Intelligence  
-  France
+  Paris school of Business, France
 
 - 🎓 BSc Computer Science
+  Tansian University, Nigeria
 
 ---
 
