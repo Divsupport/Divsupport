@@ -3,14 +3,14 @@
 </h1>
 
 <h3 align="center">
-IAM & Cybersecurity Professional | Microsoft Entra ID | Cloud Security | Data & Analytics
+Identity & Access Management (IAM) Cloud Engineer | Specializing in Microsoft Entra ID, Least-Privilege Architecture, and Hybrid Cloud Governance and Building secure infrastructures one lab at a time.
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am an IAM and Cybersecurity professional focused on Identity & Access Management, Microsoft Entra ID, RBAC, cloud security administration, and Azure infrastructure.
+I am an IAM Cybersecurity professional focused on Identity & Access Management, Microsoft Entra ID, RBAC, cloud security administration, and Azure infrastructure.
 
 I build hands-on enterprise-focused labs around identity governance, least privilege, delegated administration, Microsoft security technologies, cloud infrastructure, and identity security validation.
 
