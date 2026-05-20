@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Identity & Access Management (IAM) Cloud Security Engineer | Microsoft Entra ID & Zero-Trust Architecture Specialist | Automating Secure Infrastructures via Microsoft Graph PowerShell
+Identity & Access Management (IAM) Cloud Security Engineer | Microsoft Entra ID & Zero-Trust Architecture Specialist | Automating Secure Infrastructures 
 </h3>
 
 ---
