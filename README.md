@@ -99,7 +99,7 @@ Extracted remote technology job listings using Python-based web scraping techniq
 
 Analyzed telecom customer churn data using SQL Server database querying and advanced Power BI visualization techniques to identify business risk factors, calculate retention trends, and output predictive insight metrics.
 
-📁**Key Concepts:** Relational Database Staging, T-SQL, Data Transformation, DAX Modeling, Churn Predictive Dashboards.
+**Key Concepts:** Relational Database Staging, T-SQL, Data Transformation, DAX Modeling, Churn Predictive Dashboards.
 
 🔗 **Repository:** [Churn-Analysis-Project-Using-SQL-server-Power-BI](https://github.com/Divsupport/Churn-Analysis-Project-Using-SQL-server-Power-BI)
 
@@ -115,7 +115,7 @@ Built an enterprise-scale cloud data engineering workflow handling complex trans
 
 ---
 
-## 📞 Call Center Operations Dashboard | Power BI Analysis
+##  Call Center Operations Dashboard | Power BI Analysis
 
 Developed a robust Power BI operational tracking engine evaluating real-time service level agreements (SLAs), workforce efficiency thresholds, and call response metrics.
 
