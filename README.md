@@ -12,7 +12,7 @@ Identity & Access Management (IAM) Cloud Security Engineer | Microsoft Entra ID 
 
 I am an **Identity & Access Management (IAM) Cloud Security Engineer** specializing in the architecture, implementation, and automation of zero-trust directory governance across enterprise and hybrid-cloud infrastructures. My engineering philosophy revolves around strictly enforcing the **Principle of Least Privilege (PoLP)**, partitioning data-plane classification spaces, and minimizing credential blast radiuses.
 
-I design and execute production-grade labs focused on solving real-world enterprise infrastructure challenges—such as automated merger and acquisition (M&A) lifecycles, advanced directory isolation via Custom Security Attributes, scoped Role-Based Access Control (RBAC), and dynamic hardware management rings. 
+I design and execute production-grade labs focused on solving real-world enterprise infrastructure challenges such as automated merger and acquisition (M&A) lifecycles, advanced directory isolation via Custom Security Attributes, scoped Role-Based Access Control (RBAC), and dynamic hardware management rings. 
 
 Bridging the gap between advanced cybersecurity and business operations, I leverage my dual-postgraduate background in **Cybersecurity & Digital Forensics** and **Marketing Analytics & Data Intelligence** to deploy highly analytical, script-driven automation pipelines. Beyond identity governance, I engineer scalable workflows utilizing **Microsoft Graph PowerShell, Python, SQL Server, and Power BI** to deliver robust cloud-based data engineering and analytics engines.
 
