@@ -60,7 +60,7 @@ This project simulated how enterprise IT teams automate identity onboarding, dep
 
 ---
 
-# 🧪 Other Labs and Projects
+# Other Labs and Projects
 
 ## 🔐 Azure Entra ID Zero-Trust Lifecycle Automation & Attribute Governance
 
@@ -95,7 +95,7 @@ Built a secure IAM governance lab using Administrative Units and scoped RBAC.
 
 ---
 
-## 🌐 Web Scraping RemoteOK Project
+##  Web Scraping RemoteOK Project
 
 Built a Python web scraping project to collect remote technology job listings.
 
@@ -111,7 +111,7 @@ Built a Python web scraping project to collect remote technology job listings.
 
 ---
 
-## 📊 Churn Analysis Using SQL Server & Power BI
+##  Churn Analysis Using SQL Server & Power BI
 
 Analyzed telecom customer churn data using SQL Server and Power BI.
 
@@ -127,7 +127,7 @@ Analyzed telecom customer churn data using SQL Server and Power BI.
 
 ---
 
-## 🏗 AdventureWorks Data Engineering Pipeline Project
+## AdventureWorks Data Engineering Pipeline Project
 
 Built a cloud-style data engineering workflow using structured datasets.
 
@@ -143,7 +143,7 @@ Built a cloud-style data engineering workflow using structured datasets.
 
 ---
 
-## 📞 Call Center Operations Dashboard | Power BI Analysis
+## Call Center Operations Dashboard | Power BI Analysis
 
 Developed a Power BI operational dashboard for monitoring call center performance.
 
