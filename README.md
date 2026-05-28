@@ -3,35 +3,143 @@
 </h1>
 
 <h3 align="center">
-Identity & Access Management (IAM) Cloud Security Engineer | Microsoft Entra ID & Zero-Trust Architecture Specialist | Automating Secure Infrastructures 
+Identity and Access Management (IAM) Cloud Security Engineer | Microsoft Entra ID | Zero Trust Security | Cloud Automation
 </h3>
 
 ---
 
 ## About Me
 
-I am an **Identity & Access Management (IAM) Cloud Security Engineer** specializing in the architecture, implementation, and automation of zero-trust directory governance across enterprise and hybrid-cloud infrastructures. My engineering philosophy revolves around strictly enforcing the **Principle of Least Privilege (PoLP)**, partitioning data-plane classification spaces, and minimizing credential blast radiuses.
+I work in identity and access management with a strong focus on Microsoft Entra ID, secure access, and cloud governance.
 
-I design and execute production-grade labs focused on solving real-world enterprise infrastructure challenges such as automated merger and acquisition (M&A) lifecycles, advanced directory isolation via Custom Security Attributes, scoped Role-Based Access Control (RBAC), and dynamic hardware management rings. 
+I build labs that show how companies can manage users, groups, roles, and access in a safer and more organized way. My work focuses on making identity systems more secure, more controlled, and easier to manage.
 
-Bridging the gap between advanced cybersecurity and business operations, I leverage my dual-postgraduate background in **Cybersecurity & Digital Forensics** and **Marketing Analytics & Data Intelligence** to deploy highly analytical, script-driven automation pipelines. Beyond identity governance, I engineer scalable workflows utilizing **Microsoft Graph PowerShell, Python, SQL Server, and Power BI** to deliver robust cloud-based data engineering and analytics engines.
-
----
-
-## 🎓 Education
-
-- 🎓 **MSc Cybersecurity & Digital Forensics** *University of Huddersfield, United Kingdom*
-
-- 🎓 **MSc Marketing Analytics & Data Intelligence** *Paris School of Business, France*
-
-- 🎓 **BSc Computer Science** *Tansian University, Nigeria*
+I like practical projects. I build real examples that show how enterprise identity works in the real world. My goal is to solve access problems with clear structure, strong security, and simple automation.
 
 ---
 
-##  Certifications
+## Latest Project
 
-- Microsoft Certified: Identity and Access Administrator Associate (SC-300) *[In Progress]*
-- Microsoft Certified: Azure Administrator Associate (AZ-104) *[In Progress]*
+## 🔐 Enterprise Identity Lifecycle Automation: Joiner-Mover-Leaver Pipeline in Microsoft Entra ID
+
+Built a complete identity lifecycle workflow for a fictional enterprise called **NexusCorp Global**.  
+The project shows how to handle:
+
+- New hire onboarding
+- Department changes
+- Employee offboarding
+- Group access updates
+- Secure identity governance
+
+The full project is documented here:
+
+[View Project Repository](https://github.com/Divsupport)
+
+**What I built:**
+- A Joiner flow for new employee accounts
+- A Mover flow for role and department changes
+- A Leaver flow for secure offboarding
+- A full enterprise identity lifecycle model in Microsoft Entra ID
+
+---
+
+## Labs and Projects
+
+## 🔐 Azure Entra ID Zero-Trust Lifecycle Automation & Attribute Governance
+
+Built an enterprise-style identity governance lab using Microsoft Graph PowerShell and Microsoft Entra ID.  
+The project focused on secure onboarding, identity classification, and controlled access boundaries.
+
+**Key work:**
+- Automated user provisioning from HR data
+- Applied secure identity tagging
+- Managed access through enterprise identity rules
+- Tested identity isolation and access control
+
+**Repository:** [Azure-EntraID-ZeroTrust-Automation](https://github.com/Divsupport/Azure-EntraID-ZeroTrust-Automation.git)
+
+---
+
+## Microsoft Entra ID Restricted Administrative Unit IAM Lab
+
+Built a secure IAM lab using Administrative Units, scoped RBAC, security groups, and delegated ownership.
+
+**Key work:**
+- Created a regional administrative boundary
+- Limited admin scope to a specific unit
+- Separated security groups from collaboration groups
+- Tested access restrictions across sessions
+
+**Repository:** [Entra-id-restricted-au-iam-lab](https://github.com/Divsupport/Entra-id-restricted-au-iam-lab)
+
+---
+
+## 🌐 Web Scraping RemoteOK Project
+
+Built a Python web scraping project to collect and clean remote job listings.
+
+**Key work:**
+- Scraped job data
+- Cleaned raw web data
+- Structured results for analysis
+
+**Repository:** [WEBSCRAPING-REMOTEOK.COM-PROJECT](https://github.com/Divsupport/WEBSCRAPING-REMOTEOK.COM-PROJECT)
+
+---
+
+## Churn Analysis Using SQL Server & Power BI
+
+Built a customer churn analysis project using SQL Server and Power BI.
+
+**Key work:**
+- Queried customer data
+- Built dashboards
+- Found churn patterns
+- Presented business insights
+
+**Repository:** [Churn-Analysis-Project-Using-SQL-server-Power-BI](https://github.com/Divsupport/Churn-Analysis-Project-Using-SQL-server-Power-BI)
+
+---
+
+## AdventureWorks Data Engineering Pipeline Project
+
+Built a data engineering workflow for structured data transformation and pipeline handling.
+
+**Key work:**
+- Worked on ETL-style flow
+- Managed relational data structure
+- Built data pipeline logic
+
+**Repository:** [AdventureWorks-Data-Engineering-Pipeline-Project](https://github.com/Divsupport/AdventureWorks-Data-Engineering-Pipeline-Project)
+
+---
+
+## Call Center Operations Dashboard | Power BI Analysis
+
+Built a Power BI dashboard for call center operations tracking.
+
+**Key work:**
+- Measured KPIs
+- Tracked response times
+- Monitored service performance
+- Presented business metrics
+
+**Repository:** [Call-Center-Operations-Dashboard-Power-BI-Analysis-for-Service-Spot](https://github.com/Divsupport/Project-Title-Call-Center-Operations-Dashboard-Power-BI-Analysis-for-Service-Spot)
+
+---
+
+## Education
+
+- 🎓 **MSc Cybersecurity & Digital Forensics** — University of Huddersfield, United Kingdom
+- 🎓 **MSc Marketing Analytics & Data Intelligence** — Paris School of Business, France
+- 🎓 **BSc Computer Science** — Tansian University, Nigeria
+
+---
+
+## Certifications
+
+- Microsoft Certified: Identity and Access Administrator Associate (SC-300) — In Progress
+- Microsoft Certified: Azure Administrator Associate (AZ-104) — In Progress
 
 ---
 
@@ -50,82 +158,7 @@ Bridging the gap between advanced cybersecurity and business operations, I lever
 
 ---
 
-#  Featured Projects
-
-## 🔐 Azure Entra ID Zero-Trust Lifecycle Automation & Attribute Governance
-
-Engineered a production-grade automated identity ingestion and hardware governance perimeter utilizing the **Microsoft Graph PowerShell SDK** and **REST APIs** to simulate an enterprise M&A scenario (**NexusCorp Global** acquiring **SysKko Technologies**).
-
-### Key Accomplishments
-- **Automated Provisioning Engine:** Developed a multi-stage PowerShell ingestion script that processes flat HR rosters, dynamically establishes core identities with complex secure credential baselines, and activates accounts natively without GUI dependencies.
-- **Data-Plane Attribute Partitioning:** Isolated sensitive acquired executive accounts from standard directory visibility by constructing an isolated schema extension using **Custom Security Attributes** (leveraging specialized *Attribute Definition* and *Assignment* administrative RBAC bindings).
-- **OData Type Serialization Resolution:** Overcame strict Graph API validation schemas by structuring JSON string payloads with explicit OData type serialization declarations (`@odata.type = "#Microsoft.DirectoryServices.CustomSecurityAttributeValue"`), eliminating data truncation exceptions.
-- **Dynamic Hardware Security Ring:** Formulated an advanced, multi-variable device rule expression language (`device.deviceOSType` and `device.deviceOSVersion`) within the Entra dynamic group engine to continuously auto-compile a hardened management boundary targeting exclusively authorized Windows corporate endpoints.
-- **Adversarial Boundary Testing:** Conducted session-isolated verification passes to confirm that unauthorized internal users are completely blocked from viewing metadata classification tags, validating the zero-trust data boundary.
-
- **Key Concepts:** Microsoft Graph PowerShell SDK, Custom Security Attributes, OData Type Serialization, Dynamic Device Membership Query Compilation, Control-Plane Isolation, Zero-Trust Data Classification.
-
-🔗 **Repository:** [Azure-EntraID-ZeroTrust-Automation](https://github.com/Divsupport/Azure-EntraID-ZeroTrust-Automation.git)
-
----
-
-## Microsoft Entra ID Restricted Administrative Unit IAM Lab
-
-Designed and validated a secure regional Identity & Access Management governance architecture using Microsoft Entra ID Administrative Units, scoped RBAC, Security Groups, and Microsoft 365 delegated resource ownership.
-
-### Key Accomplishments
-- Engineered a localized regional boundary container (`NY-Administrative-Unit`) to segment control-plane boundaries.
-- Assigned a container-restricted `Hybrid Identity Administrator` directory role, confining regional administrative capability strictly to the New York perimeter while preserving central enterprise IT audit paths.
-- Deployed a dual-group governance framework: structured standard **Security Groups** for automated bulk infrastructure management, alongside **Microsoft 365 Groups** featuring delegated object-level ownership to offload routine team roster operations to departmental heads without role escalation.
-- Validated identity perimeter security controls through cross-session verification, ensuring zero cross-boundary escalation or unauthorized internal directory indexing.
-
- **Key Concepts:** Administrative Units (AU), Scoped RBAC, Hybrid Identity Administrator, Least Privilege, Delegated Resource Ownership, Separation of Duties (SoD), Security Groups.
-
-🔗 **Repository:** [Entra-id-restricted-au-iam-lab](https://github.com/Divsupport/Entra-id-restricted-au-iam-lab)
-
----
-
-## 🌐 Web Scraping RemoteOK Project
-
-Extracted remote technology job listings using Python-based web scraping techniques to capture, parse, and clean unstructured web telemetry into structured, analysis-ready datasets.
-
- **Key Concepts:** Python, BeautifulSoup, Request Handlers, Data Scraping, Data Structuring.
-
-🔗 **Repository:** [WEBSCRAPING-REMOTEOK.COM-PROJECT](https://github.com/Divsupport/WEBSCRAPING-REMOTEOK.COM-PROJECT)
-
----
-
-##  Churn Analysis Using SQL Server & Power BI
-
-Analyzed telecom customer churn data using SQL Server database querying and advanced Power BI visualization techniques to identify business risk factors, calculate retention trends, and output predictive insight metrics.
-
-**Key Concepts:** Relational Database Staging, T-SQL, Data Transformation, DAX Modeling, Churn Predictive Dashboards.
-
-🔗 **Repository:** [Churn-Analysis-Project-Using-SQL-server-Power-BI](https://github.com/Divsupport/Churn-Analysis-Project-Using-SQL-server-Power-BI)
-
----
-
-## AdventureWorks Data Engineering Pipeline Project
-
-Built an enterprise-scale cloud data engineering workflow handling complex transformations, relational entity structuring, and business dataset pipelines.
-
- **Key Concepts:** Data Pipelines, ETL Workflows, Data Engineering, Schema Normalization.
-
-🔗 **Repository:** [AdventureWorks-Data-Engineering-Pipeline-Project](https://github.com/Divsupport/AdventureWorks-Data-Engineering-Pipeline-Project)
-
----
-
-##  Call Center Operations Dashboard | Power BI Analysis
-
-Developed a robust Power BI operational tracking engine evaluating real-time service level agreements (SLAs), workforce efficiency thresholds, and call response metrics.
-
-**Key Concepts:** Data Analytics, Operational KPIs, Performance Metrics Modeling, Power BI Dashboards.
-
-🔗 **Repository:** [Call-Center-Operations-Dashboard-Power-BI-Analysis-for-Service-Spot](https://github.com/Divsupport/Project-Title-Call-Center-Operations-Dashboard-Power-BI-Analysis-for-Service-Spot)
-
----
-
-# 🤝 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/divine-oguamanam-a21765337" target="blank">
@@ -139,7 +172,7 @@ Developed a robust Power BI operational tracking engine evaluating real-time ser
 
 ---
 
-#  Contact
+## Contact
 
 - 📧 **Email:** justdatawuld@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/divine-oguamanam-a21765337](https://linkedin.com/in/divine-oguamanam-a21765337)
