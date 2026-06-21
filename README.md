@@ -3,14 +3,14 @@
 </h1>
 
 <h3 align="center">
-Identity and Access Management (IAM) Cloud Security Engineer | Microsoft Entra ID | Zero Trust Security | Cloud Automation
+Focused on Identity and Access Management (IAM) | Microsoft Entra ID | Zero Trust Security | Cloud Automation
 </h3>
 
 ---
 
 ## About Me
 
-I work in identity and access management with a strong focus on Microsoft Entra ID, secure access, and cloud governance.
+I work in creating identity and access management projects with a strong focus on Microsoft Entra ID, secure access, and cloud governance.
 
 I build labs that show how companies manage users, permissions, groups, and identities securely across enterprise cloud environments. My work focuses on identity lifecycle management, least privilege access, RBAC, governance, and zero-trust security architecture.
 
@@ -160,9 +160,6 @@ Developed a Power BI operational dashboard for monitoring call center performanc
 ---
 
 # 🎓 Education
-
-- 🎓 **MSc Cybersecurity & Digital Forensics**  
-  University of Huddersfield, United Kingdom
 
 - 🎓 **MSc Marketing Analytics & Data Intelligence**  
   Paris School of Business, France
