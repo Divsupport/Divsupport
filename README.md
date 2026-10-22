@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Computer Science Graduate | Aspiring AI Systems & Data Engineer
+Aspiring AI Agentic Engineer
 </h3>
 
 ---
