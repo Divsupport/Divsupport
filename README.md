@@ -3,51 +3,50 @@
 </h1>
 
 <h3 align="center">
-Software Engineering & AI Systems | Python | Knowledge Graphs | Data Architecture
+Computer Science Graduate | Aspiring AI Systems & Data Engineer
 </h3>
 
 ---
 
 ## About Me
 
-I am a Software and Data Systems Engineer focused on building intelligent backend workflows, data pipelines, and scalable architectures. 
+I am a Computer Science graduate with a Master’s in Data Intelligence, building my path toward software engineering and AI systems research. 
 
-My work bridges core software engineering with modern AI systems—specializing in Python development, database engineering, and designing memory architectures for autonomous AI agents. I enjoy building real-world solutions that solve complex data retrieval and system state management problems.
+My work focuses on Python programming, data pipelines, database engineering, and designing structured architectures. I am currently researching and building memory management systems for autonomous AI agents.
 
 ---
 
-# 🤖 Featured AI & Systems Project
+# 🤖 Current AI Research Project
 
 ## Designing a Knowledge Graph Memory Engine for Persistent Context in AI Agents
 
-Developing a Python-based knowledge graph memory framework designed to solve context loss and memory drift in multi-step AI agent workflows.
+Building a Python-based knowledge graph memory framework designed to solve context loss and memory drift in multi-step AI agent workflows.
 
 ### Key Focus Areas
-- **Automated Ingestion:** Converting raw agent interaction logs into structured graph triples (subject, predicate, object).
-- **Graph State Persistence:** Utilizing graph database schemas (Neo4j / NetworkX) for multi-hop relationship retrieval.
-- **Memory Evolution & Pruning:** Implementing automated rules for temporal decay and entity alias resolution to prevent memory bloat.
-- **Traversal Retrieval:** Replacing flat vector searches with graph neighborhood traversal for precise context lookup.
+- **Automated Ingestion:** Converting raw agent interaction logs into structured graph triples.
+- **Graph State Persistence:** Utilizing graph database schemas (Neo4j / NetworkX) for relational retrieval.
+- **Memory Evolution & Pruning:** Implementing rules for temporal decay and entity alias resolution.
 
-🔗 **Repository:** [Coming Soon / Private Research Workspace]
+🔗 **Repository:** [Research Workspace / Coming Soon]
 
 ---
 
 # 📊 Data Engineering & Analytics Projects
 
 ## 🐍 Web Scraping RemoteOK Project
-Built a Python web scraping pipeline to extract, clean, and structure remote technology job listings for analysis.  
+Built a Python web scraping pipeline to extract, clean, and structure remote technology job listings.  
 🔗 **Repository:** [WEBSCRAPING-REMOTEOK.COM-PROJECT](https://github.com/Divsupport/WEBSCRAPING-REMOTEOK.COM-PROJECT)
 
 ## 📈 Churn Analysis Using SQL Server & Power BI
-Analyzed relational telecom datasets using advanced SQL queries and built operational Power BI dashboards to track customer churn trends.  
+Analyzed relational telecom datasets using SQL queries and built operational Power BI dashboards.  
 🔗 **Repository:** [Churn-Analysis-Project-Using-SQL-server-Power-BI](https://github.com/Divsupport/Churn-Analysis-Project-Using-SQL-server-Power-BI)
 
 ## ⚙️ AdventureWorks Data Engineering Pipeline
-Engineered cloud-style data workflows, structured relational datasets, and automated ETL pipelines.  
+Engineered cloud-style data workflows and structured relational datasets[cite: 10].  
 🔗 **Repository:** [AdventureWorks-Data-Engineering-Pipeline-Project](https://github.com/Divsupport/AdventureWorks-Data-Engineering-Pipeline-Project)
 
 ## 📞 Call Center Operations Dashboard
-Developed an operational analytics dashboard monitoring workforce performance and SLA metrics.  
+Developed an operational analytics dashboard monitoring workforce performance metrics[cite: 10].  
 🔗 **Repository:** [Call-Center-Operations-Dashboard-Power-BI-Analysis-for-Service-Spot](https://github.com/Divsupport/Project-Title-Call-Center-Operations-Dashboard-Power-BI-Analysis-for-Service-Spot)
 
 ---
@@ -55,10 +54,10 @@ Developed an operational analytics dashboard monitoring workforce performance an
 # 🎓 Education
 
 - 🎓 **MSc Marketing Analytics & Data Intelligence**  
-  Paris School of Business, France
+  Paris School of Business, France[cite: 9, 12]
 
 - 🎓 **BSc Computer Science**  
-  Tansian University, Nigeria
+  Tansian University, Nigeria[cite: 9, 11]
 
 ---
 
